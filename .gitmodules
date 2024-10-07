@@ -1,0 +1,6 @@
+[submodule "BloodDonation"]
+	path = BloodDonation
+	url = https://github.com/abubakkarsiddiquee/BloodDonation
+[submodule "donation-backend"]
+	path = donation-backend
+	url = https://github.com/abubakkarsiddiquee/donation-backend
